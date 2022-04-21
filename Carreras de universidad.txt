@@ -1,0 +1,12 @@
+Ingenieria
+Medicina
+Odontologia
+Fisiopatologia
+Abogado
+Ciencia
+Sociologia
+Psicologia
+Terapeuta
+Diseño
+Nutricionismo
+Deportes
